@@ -67,6 +67,7 @@
   * [Blockchain Platforms](blokchein-tekhnologii/etherium-blockchain-contracts/blockchain-platforms.md)
   * [OpenZeppelin](blokchein-tekhnologii/etherium-blockchain-contracts/openzeppelin.md)
   * [CTF examples](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/README.md)
+    * [HoneyPots](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/honeypots.md)
     * [Sharkyctf2020](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/sharkyctf2020.md)
     * [PHDays10](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/phdays10.md)
     * [OpenZeppelin Ethernaut](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/openzeppelin-ethernaut.md)
