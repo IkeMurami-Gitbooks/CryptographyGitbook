@@ -4,3 +4,5 @@ Cobra - A fast, flexible and simple development environment framework for Ethere
 
 MAIAN - сканирование уязвимостей в смарт-контрактах Eth\
 [http://telegra.ph/MAIAN---tulza-dlya-testirovaniya-bezopasnosti-smart-kontraktov-na-Ethereum-06-12](http://telegra.ph/MAIAN---tulza-dlya-testirovaniya-bezopasnosti-smart-kontraktov-na-Ethereum-06-12)
+
+Slither — Solidity static scanner [https://github.com/crytic/slither](https://github.com/crytic/slither)
