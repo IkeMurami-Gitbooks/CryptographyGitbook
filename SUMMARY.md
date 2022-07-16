@@ -54,7 +54,7 @@
 * [Script](blokchein-tekhnologii/untitled.md)
 * [Web3](blokchein-tekhnologii/web3.md)
 * [Etherium Blockchain Contracts](blokchein-tekhnologii/etherium-blockchain-contracts/README.md)
-  * [О смарт-контрактах и ethereum](blokchein-tekhnologii/etherium-blockchain-contracts/o-smart-kontraktakh-i-ethereum.md)
+  * [About Smart-contracts and Ethereum](blokchein-tekhnologii/etherium-blockchain-contracts/o-smart-kontraktakh-i-ethereum.md)
   * [ЯП](blokchein-tekhnologii/etherium-blockchain-contracts/yap/README.md)
     * [Solidity](blokchein-tekhnologii/etherium-blockchain-contracts/yap/solidity.md)
     * [Viper](blokchein-tekhnologii/etherium-blockchain-contracts/yap/viper.md)
