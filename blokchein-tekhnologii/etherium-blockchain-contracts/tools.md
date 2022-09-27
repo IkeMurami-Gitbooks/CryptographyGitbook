@@ -11,3 +11,4 @@ Semgrep rules for eth smart contracts: [https://github.com/Raz0r/semgrep-smart-c
 
 Brownie — python based dev & test eth smart contracts framework [https://github.com/eth-brownie/brownie](https://github.com/eth-brownie/brownie)
 
+A framework for creating PoC's for Solana Smart Contracts — [https://github.com/neodyme-labs/solana-poc-framework](https://github.com/neodyme-labs/solana-poc-framework)&#x20;
