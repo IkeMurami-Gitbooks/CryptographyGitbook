@@ -77,6 +77,7 @@
   * [Companies](blokchein-tekhnologii/etherium-blockchain-contracts/company.md)
 * [API некоторых валют](blokchein-tekhnologii/api-nekotorykh-valyut.md)
 * [Hyperledger](blokchein-tekhnologii/hyperledger.md)
+* [Mixers](blokchein-tekhnologii/mixers.md)
 
 ## Прикладное шифрование
 
