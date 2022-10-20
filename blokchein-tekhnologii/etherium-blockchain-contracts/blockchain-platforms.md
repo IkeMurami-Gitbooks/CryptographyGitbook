@@ -22,6 +22,20 @@ $ npx ganache-cli --deterministic
 
 **Truffle** has a graphical version of `ganache-cli`, also called [Ganache](https://www.trufflesuite.com/ganache).
 
+## Near
+
+Near Blockchain Protocol: [https://near.org/](https://near.org/)
+
+## Solana
+
+Solana Blockchain Platform: [https://solana.com/ru](https://solana.com/ru)
+
+## Platforms Based on Rust
+
+Не мало платформ базируются на Rust. Например, Solana.
+
+Link: [https://www.itmagination.com/blog/rust-development-blockchain-web3](https://www.itmagination.com/blog/rust-development-blockchain-web3)
+
 ## Кошельки (работа с аккаунтом/аккаунтами) для разработки
 
 ### MetaMask

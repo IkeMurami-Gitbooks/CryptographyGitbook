@@ -58,6 +58,7 @@
   * [ЯП](blokchein-tekhnologii/etherium-blockchain-contracts/yap/README.md)
     * [Solidity](blokchein-tekhnologii/etherium-blockchain-contracts/yap/solidity.md)
     * [Viper](blokchein-tekhnologii/etherium-blockchain-contracts/yap/viper.md)
+    * [Rust](blokchein-tekhnologii/etherium-blockchain-contracts/yap/rust.md)
   * [Development Platforms And Frameworks](blokchein-tekhnologii/etherium-blockchain-contracts/development-platforms-and-frameworks/README.md)
     * [Truffle](blokchein-tekhnologii/etherium-blockchain-contracts/development-platforms-and-frameworks/truffle.md)
     * [Hardhat](blokchein-tekhnologii/etherium-blockchain-contracts/development-platforms-and-frameworks/hardhat.md)
