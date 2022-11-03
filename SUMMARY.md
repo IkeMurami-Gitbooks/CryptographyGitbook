@@ -72,6 +72,7 @@
     * [Sharkyctf2020](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/sharkyctf2020.md)
     * [PHDays10](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/phdays10.md)
     * [OpenZeppelin Ethernaut](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/openzeppelin-ethernaut.md)
+    * [List of CTFs](blokchein-tekhnologii/etherium-blockchain-contracts/ctf-examples/list-of-ctfs.md)
   * [Talks & Papers](blokchein-tekhnologii/etherium-blockchain-contracts/talks-and-papers.md)
   * [Tools](blokchein-tekhnologii/etherium-blockchain-contracts/tools.md)
   * [Vulnerabilities](blokchein-tekhnologii/etherium-blockchain-contracts/vulnerabilities.md)
