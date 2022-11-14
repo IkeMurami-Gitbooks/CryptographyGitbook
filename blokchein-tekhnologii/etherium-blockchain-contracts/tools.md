@@ -28,3 +28,5 @@ Tools that are required for testing (какие-то инструменты из
 9. Mythril: [https://github.com/ConsenSys/mythril](https://github.com/ConsenSys/mythril)
 10. Echidna: [https://github.com/crytic/echidna](https://github.com/crytic/echidna)
 11. Slither: [https://github.com/trailofbits/slither](https://github.com/trailofbits/slither)
+
+Web3 support for burp: [https://research.nccgroup.com/2022/11/10/tool-release-web3-decoder-burp-suite-extension/amp/](https://research.nccgroup.com/2022/11/10/tool-release-web3-decoder-burp-suite-extension/amp/)
