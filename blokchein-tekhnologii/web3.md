@@ -8,3 +8,5 @@ Web3’s defining feature is ownership. Whereas the first iteration of the comme
 
 ## Crypto Metaverse
 
+* [https://decentraland.org/](https://decentraland.org/)
+* [https://www.sandbox.game/en/](https://www.sandbox.game/en/)
