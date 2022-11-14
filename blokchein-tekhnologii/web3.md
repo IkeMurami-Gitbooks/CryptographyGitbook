@@ -5,3 +5,6 @@ Web3’s defining feature is ownership. Whereas the first iteration of the comme
 ## Web3 Stack Tech
 
 ![](<../.gitbook/assets/Web3 Stack.png>)
+
+## Crypto Metaverse
+
