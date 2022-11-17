@@ -2,6 +2,8 @@
 
 Sharkyctf 2020 — был целый набор заданий DeFi на Solidity и были райтапы на них в разделе blockchain.
 
+Writeup: [https://imagin.vip/?p=1380#Warmup](https://imagin.vip/?p=1380#Warmup)
+
 Фишечки:
 
 * На etherscan видны все изменения параметров контракта (заменяем на свой контракт)

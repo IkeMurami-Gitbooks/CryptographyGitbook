@@ -3,6 +3,8 @@
 Официальная документация: [https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html](https://solidity.readthedocs.io/en/latest/introduction-to-smart-contracts.html)\
 Security Recomendations: [https://solidity.readthedocs.io/en/latest/security-considerations.html](https://solidity.readthedocs.io/en/latest/security-considerations.html)
 
+Solidity Langs: [https://soliditylang.org/](https://soliditylang.org/)
+
 Особенности языка
 
 перевести string в bytes32 - это просто перевести в hex!
