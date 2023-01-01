@@ -30,6 +30,14 @@ Near Blockchain Protocol: [https://near.org/](https://near.org/)
 
 Solana Blockchain Platform: [https://solana.com/ru](https://solana.com/ru)
 
+Эта платформа переживает проблемы после краха FTX (Solana продвигался основателем FTX): финансовые последствия — падение токена SOL, нефинансовые — отток разработчиков (несколько крупных проектов заявили о переносе на Etherium и Polygon)
+
+## Polygon
+
+От Polygon Technology
+
+
+
 ## Platforms Based on Rust
 
 Не мало платформ базируются на Rust. Например, Solana.
@@ -43,3 +51,13 @@ Link: [https://www.itmagination.com/blog/rust-development-blockchain-web3](https
 ### Influro
 
 ### Alchemy
+
+## Другие проекты
+
+Пока не знаю, к чему они ближе
+
+* Aztec
+* Aleo
+* Nethermind
+* Polygon
+* Mach 34: [https://mach34.space/](https://mach34.space/)
