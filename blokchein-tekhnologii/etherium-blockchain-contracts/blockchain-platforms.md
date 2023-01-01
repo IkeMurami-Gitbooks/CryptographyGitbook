@@ -61,3 +61,4 @@ Link: [https://www.itmagination.com/blog/rust-development-blockchain-web3](https
 * Nethermind
 * Polygon
 * Mach 34: [https://mach34.space/](https://mach34.space/)
+* CipherTrace: [https://ciphertrace.com/](https://ciphertrace.com/)
