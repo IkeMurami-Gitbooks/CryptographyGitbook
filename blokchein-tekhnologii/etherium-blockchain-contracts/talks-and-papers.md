@@ -14,3 +14,7 @@ Github repo from Immunefi: Библиотека безопасности Web3. �
 * [https://www.youtube.com/watch?v=X34EGBwc16M](https://www.youtube.com/watch?v=X34EGBwc16M)
 * [https://www.youtube.com/watch?v=kjO0eUSnOiQ](https://www.youtube.com/watch?v=kjO0eUSnOiQ)
 * [https://www.youtube.com/watch?v=D\_qTJeyxBIw](https://www.youtube.com/watch?v=D\_qTJeyxBIw)
+
+Доклады с Offzone:
+
+* [https://youtu.be/Wy0P\_5yASuU](https://youtu.be/Wy0P\_5yASuU)
