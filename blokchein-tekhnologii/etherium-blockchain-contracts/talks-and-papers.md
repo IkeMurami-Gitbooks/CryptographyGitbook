@@ -8,6 +8,10 @@ Smart Contract  Security Best Practice [https://consensys.github.io/smart-contra
 
 Github repo from Immunefi: Библиотека безопасности Web3. Кстати, если захотите подтянуть свои знания по Web3, то можете заглянуть в репозиторий от Immunefi, который содержит коллекцию ресурсов с описанием основных концепций, уязвимостей, инструментов и многого другого. [https://github.com/immunefi-team/Web3-Security-Library](https://github.com/immunefi-team/Web3-Security-Library)
 
+Youtube:
+
+* My smart contract audit process: [https://www.youtube.com/watch?v=xD0IZh9c8LM](https://www.youtube.com/watch?v=xD0IZh9c8LM)
+
 Доклады с PHDays:
 
 * [https://www.youtube.com/watch?v=-kmayoOozvc](https://www.youtube.com/watch?v=-kmayoOozvc)
