@@ -15,3 +15,7 @@ A Sneak Peek into Smart Contracts Reversing and Emulation https://www.shielder.c
 ## Sailfish – платформа для поиска state-inconsistency багов в контрактах
 
 {% file src="../../.gitbook/assets/2104.08638.pdf" %}
+
+## Dusting Attack
+
+About: [https://halborn.com/what-is-a-dusting-attack/](https://halborn.com/what-is-a-dusting-attack/)
