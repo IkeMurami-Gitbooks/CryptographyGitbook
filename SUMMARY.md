@@ -84,6 +84,7 @@
 ## Прикладное шифрование
 
 * [Свой SSL Cert для сайта](prikladnoe-shifrovanie/svoi-ssl-cert-dlya-saita.md)
+* [How Certificate Transparency Works](prikladnoe-shifrovanie/how-certificate-transparency-works.md)
 * [DPAPI](prikladnoe-shifrovanie/dpapi.md)
 * [OpenSSL](prikladnoe-shifrovanie/openssl/README.md)
   * [Чтение сертификатов и ключей](prikladnoe-shifrovanie/openssl/chtenie-sertifikatov-i-klyuchei.md)
