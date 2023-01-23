@@ -30,3 +30,5 @@ Tools that are required for testing (какие-то инструменты из
 11. Slither: [https://github.com/trailofbits/slither](https://github.com/trailofbits/slither)
 
 Web3 support for burp: [https://research.nccgroup.com/2022/11/10/tool-release-web3-decoder-burp-suite-extension/amp/](https://research.nccgroup.com/2022/11/10/tool-release-web3-decoder-burp-suite-extension/amp/)
+
+Web3 security tool: [https://xmind.works/share/zfdeD07U](https://xmind.works/share/zfdeD07U)

@@ -22,3 +22,8 @@ Youtube:
 Доклады с Offzone:
 
 * [https://youtu.be/Wy0P\_5yASuU](https://youtu.be/Wy0P\_5yASuU)
+
+A compilation of high and medium-severity findings from Code4rena & Sherlock: [https://github.com/aviggiano/theauditorbook](https://github.com/aviggiano/theauditorbook)\
+[https://theauditorbook.com/](https://theauditorbook.com/)
+
+Yet another site about web3 security: [https://multiversity.wefuzz.io/](https://multiversity.wefuzz.io/)
