@@ -5,6 +5,8 @@ Security Recomendations: [https://solidity.readthedocs.io/en/latest/security-con
 
 Solidity Langs: [https://soliditylang.org/](https://soliditylang.org/)
 
+Интерактивная платорма для обучения программированию на Solidity: [https://cryptozombies.io/en/course](https://cryptozombies.io/en/course)
+
 Особенности языка
 
 перевести string в bytes32 - это просто перевести в hex!
