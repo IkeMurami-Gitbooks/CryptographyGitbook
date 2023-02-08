@@ -6,6 +6,18 @@ Web3’s defining feature is ownership. Whereas the first iteration of the comme
 
 ![](<../.gitbook/assets/Web3 Stack.png>)
 
+| Web 2.0    | Web 3.0    |
+| ---------- | ---------- |
+| Spotify    | Audius     |
+| Google     | Presearch  |
+| WhatsApp   | Status     |
+| PayPal     | MetaMask   |
+| Uber       | Dimo       |
+| YouTube    | Livepeer   |
+| GoogleMaps | HiveMapper |
+| Chrome     | Brave      |
+| LinkedIn   | Braintrust |
+
 ## Crypto Metaverse
 
 * [https://decentraland.org/](https://decentraland.org/)
