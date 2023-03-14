@@ -8,6 +8,8 @@ Some bug: [https://medium.com/@nnez/different-parsers-different-results-acecf84d
 
 A Sneak Peek into Smart Contracts Reversing and Emulation https://www.shielder.com/blog/2022/04/a-sneak-peek-into-smart-contracts-reversing-and-emulation/
 
+Binance Smart Chain Token Bridge Hack: [https://swarm.ptsecurity.com/binance-smart-chain-token-bridge-hack/](https://swarm.ptsecurity.com/binance-smart-chain-token-bridge-hack/)
+
 ## Классификация багов в смарт-контрактах
 
 ![](<../../.gitbook/assets/Smart Contract Vulnerabilities Classification.jpg>)
@@ -19,3 +21,4 @@ A Sneak Peek into Smart Contracts Reversing and Emulation https://www.shielder.c
 ## Dusting Attack
 
 About: [https://halborn.com/what-is-a-dusting-attack/](https://halborn.com/what-is-a-dusting-attack/)
+
