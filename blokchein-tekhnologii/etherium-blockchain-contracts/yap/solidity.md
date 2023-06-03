@@ -22,3 +22,4 @@ Solidity Langs: [https://soliditylang.org/](https://soliditylang.org/)
 reentrancy attack: [https://medium.com/@gus\_tavo\_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4](https://medium.com/@gus\_tavo\_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)\
 
 
+Solidity Semgrep Pack: [https://www.linkedin.com/posts/decurity\_were-glad-to-announce-that-our-grant-proposal-activity-7044578630047272960-GwsO?utm\_source=share\&utm\_medium=member\_ios](https://www.linkedin.com/posts/decurity\_were-glad-to-announce-that-our-grant-proposal-activity-7044578630047272960-GwsO?utm\_source=share\&utm\_medium=member\_ios)
