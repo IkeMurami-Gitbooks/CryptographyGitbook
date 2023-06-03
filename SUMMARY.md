@@ -92,4 +92,5 @@
 
 ## Learning
 
+* [Certificates](learning/certificates.md)
 * [Books & Papers](learning/books-and-papers.md)
