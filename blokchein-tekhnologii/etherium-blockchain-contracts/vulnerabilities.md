@@ -10,6 +10,8 @@ A Sneak Peek into Smart Contracts Reversing and Emulation https://www.shielder.c
 
 Binance Smart Chain Token Bridge Hack: [https://swarm.ptsecurity.com/binance-smart-chain-token-bridge-hack/](https://swarm.ptsecurity.com/binance-smart-chain-token-bridge-hack/)
 
+Тут еще хорошая статья с разбором атаки: [https://maxwelldulin.com/BlogPost/sushiswap-exploit-explained-2023](https://maxwelldulin.com/BlogPost/sushiswap-exploit-explained-2023)
+
 ## Классификация багов в смарт-контрактах
 
 ![](<../../.gitbook/assets/Smart Contract Vulnerabilities Classification.jpg>)
