@@ -22,3 +22,7 @@ Binance Smart Chain Token Bridge Hack: [https://swarm.ptsecurity.com/binance-sma
 
 About: [https://halborn.com/what-is-a-dusting-attack/](https://halborn.com/what-is-a-dusting-attack/)
 
+## Rekt
+
+Это проект, который рассказывает о проблемах безопасности в смартконтрактах, которые были проэксплуатированы злоумышленниками и какие были потери. Так же, время от времени тут рассказывают о технических подробностях: [https://rekt.news/](https://rekt.news/)
+
