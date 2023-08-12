@@ -15,6 +15,7 @@
       * [AES-CBC: Key=IV insecure](simmetrichnoe-shifrovanie/blochnye-shifry/aes/ataki/aes-cbc-key-iv-insecure.md)
   * [DES](simmetrichnoe-shifrovanie/blochnye-shifry/des.md)
 * [Поточные шифры](simmetrichnoe-shifrovanie/untitled/README.md)
+  * [Корреляционный анализ](simmetrichnoe-shifrovanie/untitled/korrelyacionnyi-analiz.md)
   * [Алгоритм Берлекэмпа-Месси восстановления внутреннего состояния ЛРС по гамме](simmetrichnoe-shifrovanie/untitled/algoritm-berlekempa-messi-vosstanovleniya-vnutrennego-sostoyaniya-lrs-po-gamme.md)
 * [RNG](simmetrichnoe-shifrovanie/rng/README.md)
   * [Mersenne Twister RNG](simmetrichnoe-shifrovanie/rng/mersenne-twister-rng.md)
