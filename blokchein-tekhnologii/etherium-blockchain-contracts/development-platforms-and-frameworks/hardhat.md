@@ -1,6 +1,6 @@
 # Hardhat
 
-link: [https://hardhat.org/](https://hardhat.org)
+link: [https://hardhat.org/](https://hardhat.org/)
 
 (Ранее назывался Buidler)
 

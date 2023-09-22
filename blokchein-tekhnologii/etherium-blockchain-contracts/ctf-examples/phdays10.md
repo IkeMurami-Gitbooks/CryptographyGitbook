@@ -12,7 +12,7 @@ A long time ago in a galaxy far, far away... a new DAO was created. Can you stea
 
 Arseny Reutov\
 [**me@raz0r.name**](mailto:me@raz0r.name)\
-[**https://raz0r.name**](https://raz0r.name)
+[**https://raz0r.name**](https://raz0r.name/)
 
 ## DiscoLP
 
@@ -26,7 +26,7 @@ You have 1 JIMBO and 1 JAMBO, can you get at least 100 DISCO tokens?
 
 Arseny Reutov\
 [**me@raz0r.name**](mailto:me@raz0r.name)\
-[**https://raz0r.name**](https://raz0r.name)
+[**https://raz0r.name**](https://raz0r.name/)
 
 ## P2PSwapper
 
@@ -42,7 +42,7 @@ You have to drain all the WETH tokens from the P2PSwapper's balance.
 
 Omar Ganiev\
 [**beched@deteact.com**](mailto:beched@deteact.com)\
-[**https://defisecurity.io/**](https://defisecurity.io)
+[**https://defisecurity.io/**](https://defisecurity.io/)
 
 ## FakerDAO
 
@@ -56,7 +56,7 @@ You have 5000 YIN and 5000 YANG, can you borrow 1 LAMBO?
 
 Arseny Reutov\
 [**me@raz0r.name**](mailto:me@raz0r.name)\
-[**https://raz0r.name**](https://raz0r.name)
+[**https://raz0r.name**](https://raz0r.name/)
 
 ## Main Khinkal Chef
 
@@ -72,4 +72,4 @@ You have to drain all the KHINKAL tokens from the MainChef's balance.Get new ins
 
 Omar Ganiev\
 [**beched@deteact.com**](mailto:beched@deteact.com)\
-[**https://defisecurity.io/**](https://defisecurity.io)
+[**https://defisecurity.io/**](https://defisecurity.io/)

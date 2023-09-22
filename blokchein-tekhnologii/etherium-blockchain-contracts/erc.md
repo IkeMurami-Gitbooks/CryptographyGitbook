@@ -1,0 +1,3 @@
+# ERC
+
+ERC, EIP: 20, 721, 777, 1155, proxy patterns, vaults, ...

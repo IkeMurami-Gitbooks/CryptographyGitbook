@@ -1,6 +1,6 @@
 # Tools
 
-Перебор md5 хешей без соли: [https://crackstation.net/](https://crackstation.net)
+Перебор md5 хешей без соли: [https://crackstation.net/](https://crackstation.net/)
 
 Перебор соленых хешей sha1 [http://www.dcode.fr/sha1-hash](http://www.dcode.fr/sha1-hash)
 
