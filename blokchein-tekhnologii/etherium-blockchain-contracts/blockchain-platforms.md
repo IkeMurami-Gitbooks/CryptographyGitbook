@@ -52,6 +52,8 @@ Link: [https://www.itmagination.com/blog/rust-development-blockchain-web3](https
 
 ### Alchemy
 
+Это платформа для разработки Web3 приложений — [https://www.alchemy.com/](https://www.alchemy.com/)
+
 ## Другие проекты
 
 Пока не знаю, к чему они ближе
