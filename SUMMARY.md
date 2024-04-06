@@ -101,4 +101,5 @@
 ## Learning
 
 * [Certificates](learning/certificates.md)
+* [Platforms](learning/platforms.md)
 * [Books & Papers](learning/books-and-papers.md)
