@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Crypto Book](README.md)
+  * [Platforms & Playgrounds](master/platforms-and-playgrounds.md)
   * [People and Blogs](master/people-and-blogs.md)
 
 ## Симметричное шифрование
