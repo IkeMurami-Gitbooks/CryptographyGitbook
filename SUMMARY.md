@@ -54,6 +54,7 @@
 
 ## Блокчейн-технологии
 
+* [Bitcoin](blokchein-tekhnologii/bitcoin.md)
 * [Script](blokchein-tekhnologii/untitled.md)
 * [Web3](blokchein-tekhnologii/web3.md)
 * [DeFi](blokchein-tekhnologii/defi.md)
