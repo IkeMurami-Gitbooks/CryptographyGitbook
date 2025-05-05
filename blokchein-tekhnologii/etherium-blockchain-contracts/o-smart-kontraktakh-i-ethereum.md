@@ -1,12 +1,14 @@
 # About Smart-contracts and Ethereum
 
+Etherium Book: [https://ethereumbook.ru/](https://ethereumbook.ru/)
+
 как это все работает: [https://ethereum.org/learn/](https://ethereum.org/learn/)
 
-Consensys' [best practices](https://consensys.github.io/smart-contract-best-practices/) are quite extensive, and include both [proven patterns](https://consensys.github.io/smart-contract-best-practices/recommendations/) to learn from and [known pitfalls](https://consensys.github.io/smart-contract-best-practices/known\_attacks/) to avoid.
+Consensys' [best practices](https://consensys.github.io/smart-contract-best-practices/) are quite extensive, and include both [proven patterns](https://consensys.github.io/smart-contract-best-practices/recommendations/) to learn from and [known pitfalls](https://consensys.github.io/smart-contract-best-practices/known_attacks/) to avoid.
 
-Известные атаки в одном месте: [https://consensys.github.io/smart-contract-best-practices/known\_attacks/](https://consensys.github.io/smart-contract-best-practices/known\_attacks/)
+Известные атаки в одном месте: [https://consensys.github.io/smart-contract-best-practices/known\_attacks/](https://consensys.github.io/smart-contract-best-practices/known_attacks/)
 
-Security Tools: [https://consensys.github.io/smart-contract-best-practices/security\_tools/](https://consensys.github.io/smart-contract-best-practices/security\_tools/)
+Security Tools: [https://consensys.github.io/smart-contract-best-practices/security\_tools/](https://consensys.github.io/smart-contract-best-practices/security_tools/)
 
 Заметки основаны на подкасте Запуск Завтра: [https://music.yandex.ru/album/9294155/track/105560293](https://music.yandex.ru/album/9294155/track/105560293)
 

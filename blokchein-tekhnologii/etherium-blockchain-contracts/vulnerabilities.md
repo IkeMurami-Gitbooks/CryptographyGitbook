@@ -1,5 +1,7 @@
 # Vulnerabilities
 
+Zokyo Auditing Tutorials (здесь разобраны все возможные атаки): [https://zokyo-auditing-tutorials.gitbook.io/zokyo-tutorials](https://zokyo-auditing-tutorials.gitbook.io/zokyo-tutorials)
+
 Какая-та большая вулна, сввязанная с Proxy в блокчейн-контрактах: [https://medium.com/immunefi/harvest-finance-uninitialized-proxies-bug-fix-postmortem-ea5c0f7af96b](https://medium.com/immunefi/harvest-finance-uninitialized-proxies-bug-fix-postmortem-ea5c0f7af96b)
 
 Бага в Etherium 2.0, которую Saurik показал ($2m) [https://www.saurik.com/optimism.html](https://www.saurik.com/optimism.html)
