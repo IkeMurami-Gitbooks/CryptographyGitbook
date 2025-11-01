@@ -25,3 +25,10 @@ image from [https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-s
 
 * [https://decentraland.org/](https://decentraland.org/)
 * [https://www.sandbox.game/en/](https://www.sandbox.game/en/)
+
+## Категории решений в Web3
+
+* Cryptocurrency Exchange (CEX): buy, sell and trade cryptocurrencies
+* Data platform: show transaction information, token flows, analytical data. Ex: [Etherscan](https://etherscan.io/), [Arkham](https://arkm.com/), [Dune](https://dune.com/home)
+* Wallets: hold the private keys and use its to perform signing when requested
+* Dapps: the project's on-chain smart contracts
