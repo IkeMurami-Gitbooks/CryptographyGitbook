@@ -14,6 +14,10 @@ Binance Smart Chain Token Bridge Hack: [https://swarm.ptsecurity.com/binance-sma
 
 Тут еще хорошая статья с разбором атаки: [https://maxwelldulin.com/BlogPost/sushiswap-exploit-explained-2023](https://maxwelldulin.com/BlogPost/sushiswap-exploit-explained-2023)
 
+уязвимость Reentrancy: [https://cryptooffensive.com/reentrancy/](https://cryptooffensive.com/reentrancy/)
+
+Коллекция контрактов с багами и описаниями уязвимостей: [https://github.com/sec-bit/awesome-buggy-erc20-tokens/blob/master/ERC20\_token\_issue\_list.md](https://github.com/sec-bit/awesome-buggy-erc20-tokens/blob/master/ERC20_token_issue_list.md)
+
 ## Классификация багов в смарт-контрактах
 
 ![](<../../.gitbook/assets/Smart Contract Vulnerabilities Classification.jpg>)
@@ -29,4 +33,8 @@ About: [https://halborn.com/what-is-a-dusting-attack/](https://halborn.com/what-
 ## Rekt
 
 Это проект, который рассказывает о проблемах безопасности в смартконтрактах, которые были проэксплуатированы злоумышленниками и какие были потери. Так же, время от времени тут рассказывают о технических подробностях: [https://rekt.news/](https://rekt.news/)
+
+## BugBounty
+
+Исчерпывающий список бирж с прямыми ссылками на баг-баунти : https://cer.live/
 

@@ -6,6 +6,9 @@ Web3’s defining feature is ownership. Whereas the first iteration of the comme
 
 ![](<../.gitbook/assets/Web3 Stack.png>)
 
+image from [https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack](https://www.coinbase.com/blog/a-simple-guide-to-the-web3-developer-stack)\
+(it is the good post to start into web3)
+
 | Web 2.0    | Web 3.0    |
 | ---------- | ---------- |
 | Spotify    | Audius     |

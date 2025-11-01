@@ -19,7 +19,16 @@ Solidity Langs: [https://soliditylang.org/](https://soliditylang.org/)
 [https://medium.com/coinmonks/a-practical-walkthrough-smart-contract-storage-d3383360ea1b](https://medium.com/coinmonks/a-practical-walkthrough-smart-contract-storage-d3383360ea1b)\
 [https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/](https://programtheblockchain.com/posts/2018/03/09/understanding-ethereum-smart-contract-storage/)
 
-reentrancy attack: [https://medium.com/@gus\_tavo\_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4](https://medium.com/@gus\_tavo\_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)\
+reentrancy attack: [https://medium.com/@gus\_tavo\_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4](https://medium.com/@gus_tavo_guim/reentrancy-attack-on-smart-contracts-how-to-identify-the-exploitable-and-an-example-of-an-attack-4470a2d8dfe4)\
 
 
-Solidity Semgrep Pack: [https://www.linkedin.com/posts/decurity\_were-glad-to-announce-that-our-grant-proposal-activity-7044578630047272960-GwsO?utm\_source=share\&utm\_medium=member\_ios](https://www.linkedin.com/posts/decurity\_were-glad-to-announce-that-our-grant-proposal-activity-7044578630047272960-GwsO?utm\_source=share\&utm\_medium=member\_ios)
+Solidity Semgrep Pack: [https://www.linkedin.com/posts/decurity\_were-glad-to-announce-that-our-grant-proposal-activity-7044578630047272960-GwsO?utm\_source=share\&utm\_medium=member\_ios](https://www.linkedin.com/posts/decurity_were-glad-to-announce-that-our-grant-proposal-activity-7044578630047272960-GwsO?utm_source=share\&utm_medium=member_ios)
+
+## Декомпиляторы
+
+https://ethervm.io/decompile - онлайн-декомпилятор solidity
+
+https://contract-library.com/ - библиотека контрактов с исходниками и декомпилятором
+
+https://eveem.org/ - декомпиляция в псевдокод, похожий на Python
+
